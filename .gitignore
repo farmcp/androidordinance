@@ -1,0 +1,8 @@
+
+.DS_Store
+
+# Ignore generated folders
+RELEASE
+gen
+bin
+bin-debug
